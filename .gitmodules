@@ -1,0 +1,3 @@
+[submodule "serverjoin"]
+	path = serverjoin
+	url = https://github.com/GameParrot/serverjoin.git
