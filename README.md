@@ -1,3 +1,3 @@
 # gameparrot.github.io
 
-[serverjoin](serverjoin/).
+## [serverjoin](https://gameparrot.github.io/serverjoin/)
